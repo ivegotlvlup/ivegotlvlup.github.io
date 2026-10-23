@@ -1,6 +1,2 @@
 User-agent: *
 Disallow: /
-
-Sitemap: https://github.io
-
-# placeholder, no fucking idea what to do with it yet but it has something to do with crawlers Im assuming
